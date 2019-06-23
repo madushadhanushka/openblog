@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The future of Banking system"
-author: dhanushka
+author: anonymous
 categories: [ banking ]
 image: http://www.chinabankingnews.com/wp-content/uploads/2018/11/banking.jpg
 ---

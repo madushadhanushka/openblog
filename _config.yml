@@ -1,6 +1,6 @@
 # Site
 name: 'Open Blog'
-description: 'New tech trend in one platform'
+description: 'Latest news in entertainment, technology, politics and business'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
